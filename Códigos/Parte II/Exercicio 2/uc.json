@@ -1,0 +1,49 @@
+{
+    "curso": {
+      "nome": "Engenharia de Redes e Sistemas de Computadores",
+      "ano_letivo": "2023/2024",
+      "unidades_curriculares": [
+        {
+          "codigo": "UC101",
+          "nome": "Programação Web",
+          "semestre": 2,
+          "docentes": [
+            {
+              "nome": "Professor António Lira Fernandes",
+              "cargo": "Professor Teórico"
+            },
+            {
+              "nome": "Marcelo Fernandes",
+              "cargo": "Professor Prático"
+            }
+          ]
+        },
+        {
+          "codigo": "UC102",
+          "nome": "Análise e Processamento de Sinal",
+          "semestre": 2,
+          "docentes": [
+            {
+                "nome": "Professor Sérgio Lopes",
+                "cargo": "Professor Teórico"
+              },
+              {
+                "nome": "Professor João Faria",
+                "cargo": "Professor Prático"
+              }
+          ]
+        },
+        {
+          "codigo": "UC201",
+          "nome": "Complementos de Matemática",
+          "semestre": 2,
+          "docentes": [
+            {
+              "nome": "Professora Ana Almeida",
+              "cargo": "Professora Teórica e Prática"
+            }
+          ]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,47 @@
+<curso>
+  <nome>Engenharia de Redes e Sistemas de Computadores</nome>
+  <ano_letivo>2023/2024</ano_letivo>
+  <unidades_curriculares>
+    <unidade_curricular>
+      <codigo>UC101</codigo>
+      <nome>Programação Web</nome>
+      <semestre>2</semestre>
+      <docentes>
+        <docente>
+          <nome>Professor António Lira Fernandes</nome>
+          <cargo>Professor Teórico</cargo>
+        </docente>
+        <docente>
+          <nome>Marcelo Fernandes</nome>
+          <cargo>Professor Prático</cargo>
+        </docente>
+      </docentes>
+    </unidade_curricular>
+    <unidade_curricular>
+      <codigo>UC102</codigo>
+      <nome>Análise e Processamento de Sinal</nome>
+      <semestre>2</semestre>
+      <docentes>
+        <docente>
+          <nome>Professor Sérgio Lopes</nome>
+          <cargo>Professor Teórico</cargo>
+        </docente>
+        <docente>
+          <nome>Professor João Faria</nome>
+          <cargo>Professor Prático</cargo>
+        </docente>
+      </docentes>
+    </unidade_curricular>
+    <unidade_curricular>
+      <codigo>UC201</codigo>
+      <nome>Complementos de Matemática</nome>
+      <semestre>2</semestre>
+      <docentes>
+        <docente>
+          <nome>Professora Ana Almeida</nome>
+          <cargo>Professora Teórica e Prática</cargo>
+        </docente>
+      </docentes>
+    </unidade_curricular>
+  </unidades_curriculares>
+</curso>
